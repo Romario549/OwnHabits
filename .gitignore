@@ -54,6 +54,6 @@ TestResult.xml
 nunit-*.xml
 
 appsettings.Development.json
-ТЗ.txt
+TZ.txt
 *.idea
 .DS_Store
