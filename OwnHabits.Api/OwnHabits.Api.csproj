@@ -17,4 +17,11 @@
       </PackageReference>
     </ItemGroup>
 
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="**\*.config" />
+      <_ContentIncludedByDefault Remove="**\*.json" />
+      <_ContentIncludedByDefault Remove="**\*.cshtml" />
+      <_ContentIncludedByDefault Remove="**\*.razor" />
+    </ItemGroup>
+
 </Project>
