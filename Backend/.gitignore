@@ -56,4 +56,5 @@ nunit-*.xml
 appsettings.Development.json
 TZ.txt
 *.idea
-.DS_Store
+*.DS_Store
+*keys
